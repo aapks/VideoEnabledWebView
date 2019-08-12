@@ -26,7 +26,7 @@ As you can see in the example project, you first need to include __VideoEnabledW
 VideoEnabledWebChromeClient can be used alone if you do not require the functionality that VideoEnabledWebView adds, although you need to include both classes anyway in order to compile. On the other side, __VideoEnabledWebView must always rely on a VideoEnabledWebChromeClient__.
 
 Finally, you need to define all the views that you will be using in your layout files, and provide the relevant references in the classes' constructors.
-
+# [simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)
 Common issues check-list
 ------------------------
 
